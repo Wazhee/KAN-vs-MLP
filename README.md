@@ -10,3 +10,15 @@
 - Evaluate U-KAN and U-Net computational load
 
 <img src='framework-1.jpg' style="height:256px,width:512px">
+
+
+## Citation
+This work is based on the following paper:
+```
+@article{li2024ukan,
+  title={U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation},
+  author={Li, Chenxin and Liu, Xinyu and Li, Wuyang and Wang, Cheng and Liu, Hengyu and Yuan, Yixuan},
+  journal={arXiv preprint arXiv:2406.02918},
+  year={2024}
+}
+```
