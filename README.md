@@ -9,4 +9,4 @@
 - Evaluate U-KAN and U-Nets sensitivity to sample size and number of epochs
 - Evaluate U-KAN and U-Net computational load
 
-<img src='framework-1.jpg' style="height:115px">
+<img src='framework-1.jpg' style="height:256px,width:512px">
